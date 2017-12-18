@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!-- yarn-site.xml -->
+<configuration>
+	<property>
+		<name>yarn.resourcemanager.hostname</name>
+		<value>s201</value>
+	</property>
+	<property>
+		<name>yarn.nodemanager.local-dirs</name>
+		<value>/home/centos/hadoop/nm-local-dir</value>
+	</property>
+	<property>
+		<name>yarn.nodemanager.aux-services</name>
+		<value>mapreduce_shuffle</value>
+	</property>
+</configuration>

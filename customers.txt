@@ -1,0 +1,1 @@
+/tmp/hadoop-chang/mapred/local/1508766220283/customers.txt

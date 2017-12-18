@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="com.qst.mapreduce.AppTest" time="0.006" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="D:\jdk1.8.0_144\jre\bin"/>
+    <property name="java.vm.version" value="25.144-b01"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="E:\WorkSpace_07\mapreduce_1019"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="E:\WorkSpace_07\mapreduce_1019"/>
+    <property name="java.runtime.version" value="1.8.0_144-b01"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="D:\jdk1.8.0_144\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\chang\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="E:\WorkSpace_07\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf8198775993847967581.tmp"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="D:\jdk1.8.0_144\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:/jdk1.8.0_144/bin/../jre/bin/server;D:/jdk1.8.0_144/bin/../jre/bin;D:/jdk1.8.0_144/bin/../jre/lib/amd64;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\libnvvp;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;E:\Program\apache-hive-2.1.1-bin\bin;E:\Program\cmake-3.8.1\bin;E:\Program\findbugs-1.3.9\bin;E:\Program\hadoop-2.7.3\bin;E:\Program\hadoop-2.7.3\sbin;E:\Program\scala\bin;E:\Program\spark-2.1.1\bin;E:\Program\spark-2.1.1\sbin;E:\Program\netcat-1.11;E:\Program\sbt\bin;E:\Program\protobuf\src;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Internet Download Manager;C:\Users\chang\Documents;C:\Program Files\EasyUEFI\bin;D:\program\MTPuTTY;D:\Program Files (x86)\Mozilla Firefox;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft DNX\Dnvm\;C:\WINDOWS\System32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;D:\Program Files\EditPlus;C:\Program Files\MySQL\MySQL Server 5.7\bin;C:\Anaconda3;C:\Anaconda3\Scripts;C:\Anaconda3\Library\bin;D:\jdk1.8.0_144\bin;E:\Program\apache-maven-3.5.0\bin;D:\program\UltraISO;E:\Program\apache-tomcat-8.5.15\bin;C:\WINDOWS\system32;E:\Program\Git\cmd;E:\Program\Git\mingw64\bin;E:\Program\Git\usr\bin;E:\Program\nexus-3.6.0-02-win64\nexus-3.6.0-02\bin;D:\program\Rational\common;C:\Program Files (x86)\Common Files\Acronis\SnapAPI\;C:\Users\chang\AppData\Local\Microsoft\WindowsApps;E:\eclipse_Neon;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\chang"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="user.name" value="chang"/>
+    <property name="java.class.path" value="/E:/eclipse_Neon/plugins/org.eclipse.m2e.maven.runtime_1.7.0.20160603-1931/jars/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="D:\jdk1.8.0_144\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B -gs E:\Program\apache-maven-3.5.0\conf\settings.xml -s E:\Program\apache-maven-3.5.0\conf\settings.xml clean package"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="zh"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_144"/>
+    <property name="java.ext.dirs" value="D:\jdk1.8.0_144\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="D:\jdk1.8.0_144\jre\lib\resources.jar;D:\jdk1.8.0_144\jre\lib\rt.jar;D:\jdk1.8.0_144\jre\lib\sunrsasign.jar;D:\jdk1.8.0_144\jre\lib\jsse.jar;D:\jdk1.8.0_144\jre\lib\jce.jar;D:\jdk1.8.0_144\jre\lib\charsets.jar;D:\jdk1.8.0_144\jre\lib\jfr.jar;D:\jdk1.8.0_144\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="E:\WorkSpace_07\mapreduce_1019\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="com.qst.mapreduce.AppTest" name="testhash" time="0.006"/>
+</testsuite>

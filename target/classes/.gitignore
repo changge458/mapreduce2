@@ -1,0 +1,7 @@
+/META-INF/
+/com/
+/core-site.xml
+/hdfs-site.xml
+/log4j.properties
+/mapred-site.xml
+/yarn-site.xml
